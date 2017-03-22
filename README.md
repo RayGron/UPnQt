@@ -1,2 +1,2 @@
 # UPnQt
-Library for UPnP interaction and tunnelling
+Library for UPnP interaction and tunneling based on Qt
